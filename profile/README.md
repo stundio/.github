@@ -12,7 +12,7 @@
 
 ## Introduction
 
-**Stundio** is a next-generation mobile and web experience for EduPage, engineered for students who demand performance, usability, and modern design. We transform the often rigid and outdated educational interface into a fluid, high-performance tool that works seamlessly across all devices.
+**Stundio** (ˈstuːndio, like "stundu" in Latvian) a next-generation mobile and web experience for EduPage, engineered for students who demand performance, usability, and modern design. We transform the often rigid and outdated educational interface into a fluid, high-performance tool that works seamlessly across all devices.
 
 ## Problem
 **EduPage is sh*t from UX experience**: Everyone knows it, but nobody is fixing it. Do we need extra explaination?
